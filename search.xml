@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>泡泡我来哒</title>
+      <link href="/2025/03/17/3.17/"/>
+      <url>/2025/03/17/3.17/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="开门哒"><a href="#开门哒" class="headerlink" title="开门哒"></a>开门哒</h1><p>买的有线蓝牙到货后，发现用电脑安装的手机模拟器（类似在电脑上再运行一个自己的手机），但是始终无法打开门。所以不是蓝牙发射距离的问题。因为已经是5.4最新版的蓝牙了。<br>所以后面尝试了新的办法：实际上就是投屏——直接用电脑操作手机开门（而不是用电脑来模拟手机）<br>你可能会说 不就是投屏吗 华为的也可以用电脑连接手机啊！<br>的确 但是最大的问题就是：你要手机不在身边的时候 如何连接电脑（你得解锁，得扫码，得配对）<br>但是在deepseek的帮助下 我用scrcpy这个开源软件实现了：可以直接在锁屏的情况下解锁手机，然后打开微信小程序直接开锁<br>且时间就是2分钟以内（包括电脑开机）<br>是不是很酷啊 我把过程录屏了本来想发给恩宇后面还是算了 </p><h1 id="所以今天我七点就起啦！"><a href="#所以今天我七点就起啦！" class="headerlink" title="所以今天我七点就起啦！"></a>所以今天我七点就起啦！</h1><p>嘎嘎嘎嘎</p><h1 id="掰掰"><a href="#掰掰" class="headerlink" title="掰掰~"></a>掰掰~</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>宝宝我来哒</title>
       <link href="/2025/03/15/3.15/"/>
       <url>/2025/03/15/3.15/</url>
